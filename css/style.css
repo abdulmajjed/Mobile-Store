@@ -1,0 +1,27 @@
+#set1{
+
+ background-color: lightgray;
+  border: 20px;
+  
+}
+#set2{
+
+    background-color: lightgray;
+    op
+  
+}
+
+label {
+    text-align: right;
+    position: relative;
+    left: 63px;
+}
+input{
+    border-radius: 12px;
+    border: 0px;
+    height: 25px;
+}
+body{
+    font-family: 'Courgette', cursive;
+    background-image: url("img.png")
+}
